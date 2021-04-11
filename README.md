@@ -1,2 +1,13 @@
-# PSO2-LazyGrinders
-Automation Tool For Buying/Selling Grinder
+File diatas di jalankan menggunakan Jitbit Macro Recorder
+
+
+<b>Cara Penggunaan<b>
+
+Beli Grinder
+1.Jalan ke NPC excube
+2.Posisikan karakter sampai bulatan interaksi muncul
+3.Jalankan file diatas
+
+Catatan Penting
+
+Untuk penggunaan selain buy grinder_material storage wajib mengosongkan inventory terlebih dahulu (termasuk outfit dan camo)
