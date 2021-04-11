@@ -13,7 +13,7 @@ Beli Grinder
 
 Catatan Penting
 
--Dapat berjalan untuk 30fps keatas
+-FPS minimal 30fps dan ping maksimal 50ms
 
 -Untuk penggunaan selain material storage(no clear inv).mcr wajib mengosongkan inventory terlebih dahulu (termasuk outfit dan camo)
 
