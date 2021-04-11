@@ -1,3 +1,5 @@
+Keyboard : E : KeyPress
+DELAY : 3000
 LABEL : 01
 DELAY : 100
 Keyboard : Enter : KeyPress
