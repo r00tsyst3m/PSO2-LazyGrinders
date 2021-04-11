@@ -14,3 +14,7 @@ Beli Grinder
 Catatan Penting
 
 Untuk penggunaan selain buy grinder_material storage wajib mengosongkan inventory terlebih dahulu (termasuk outfit dan camo)
+
+Saat macro berjalan jangan memberi masukkan input pada keyboard atau mouse
+
+Gunakan Ctrl+Q untuk Pause/Stop macro
