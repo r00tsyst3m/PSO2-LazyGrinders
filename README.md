@@ -15,7 +15,7 @@ Catatan Penting
 
 -FPS minimal 30fps dan ping maksimal 50ms
 
--Untuk penggunaan selain material storage(no clear inv).mcr wajib mengosongkan inventory terlebih dahulu (termasuk outfit dan camo)
+-Untuk penggunaan selain material storage_v2.mcr wajib mengosongkan inventory terlebih dahulu (termasuk outfit dan camo)
 
 -Saat macro berjalan jangan memberi masukkan input pada keyboard atau mouse
 
