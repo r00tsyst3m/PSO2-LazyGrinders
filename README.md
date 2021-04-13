@@ -23,4 +23,4 @@ Catatan Penting
 
 -Jika tidak punya premium storage maka gunakan file material storage.mcr untuk menyimpan grinder ke extended storage dan file premium storage.mcr untuk menyimpan grinder ke  material storage
 
--Jika tidak punya premium storage dan material storage maka gunakan file character storage.mcr untuk menyimpan grinder ke extended storage
+-Jika tidak punya premium storage dan material storage maka gunakan file premium storage.mcr untuk menyimpan grinder ke extended storage
