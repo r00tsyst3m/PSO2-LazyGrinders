@@ -13,6 +13,8 @@ Beli Grinder
 
 Catatan Penting
 
+-wajib punya material storage jika punyaa lebih dari 1 stack excube
+
 -FPS minimal 30fps dan ping maksimal 50ms
 
 -Untuk penggunaan selain material storage_v2.mcr wajib mengosongkan inventory terlebih dahulu (termasuk outfit dan camo) agar bukan barang selain griner yg di deposit ke storage   atau bisa diakali dengan cara buka inventory>klik tab material>close inventory sebelum menjalankan macro
@@ -23,4 +25,3 @@ Catatan Penting
 
 -Jika tidak punya premium storage maka gunakan file material storage.mcr untuk menyimpan grinder ke extended storage dan file premium storage.mcr untuk menyimpan grinder ke  material storage
 
--Jika tidak punya premium storage dan material storage maka gunakan file premium storage.mcr untuk menyimpan grinder ke extended storage
